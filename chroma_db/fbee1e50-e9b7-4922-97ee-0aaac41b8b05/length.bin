@@ -1,0 +1,4 @@
+This concatenated version of hidden state H4 and context vector C4 is then passed into a jointly
+trained Feedforward Neural Network. This network is visualised by the red box with round edges in
+Figure 16. The output of this network then represents the output of the current time stept which in
+this case represents the word “I”. This basically concludes all the steps needed at each iteration st

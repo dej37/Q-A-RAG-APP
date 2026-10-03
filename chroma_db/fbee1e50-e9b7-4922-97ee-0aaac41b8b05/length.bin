@@ -1,4 +1,1 @@
-This concatenated version of hidden state H4 and context vector C4 is then passed into a jointly
-trained Feedforward Neural Network. This network is visualised by the red box with round edges in
-Figure 16. The output of this network then represents the output of the current time stept which in
-this case represents the word “I”. This basically concludes all the steps needed at each iteration st
+invalid type: string ", ,\01 \02 \03\nEncoding\tStage\nDecoding\tStage\n\0\0\0\0\0\n< \0\0\0 >\n\04\n\04\nAttention4\n\04\nI\nFigure 16: Seq2Seq Model with Attention Mechanism Step 6 alternated from: [2]\nIf we take a look at the next iteration step in Figure 17 we can see that the output from the previous\nhidden state H4 is passed instead of the < END > token. All the other steps are equal from�
